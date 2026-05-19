@@ -1,1 +1,1 @@
-# KK1-WorldHappiness-analysis
+# Kort: vad datasetet är, varifrån det kommer, hur notebooken körs
